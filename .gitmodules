@@ -4,3 +4,6 @@
 [submodule "webserver"]
 	path = webserver
 	url = git://github.com/mattbasta/munchylunchy-web
+[submodule "munchylunchy-api-harness"]
+	path = munchylunchy-api-harness
+	url = git://github.com/mattbasta/munchylunchy-api-harness
