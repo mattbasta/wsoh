@@ -1,3 +1,6 @@
 [submodule "apiserver"]
 	path = apiserver
 	url = git://github.com/mattbasta/munchylunchy-api.git
+[submodule "webserver"]
+	path = webserver
+	url = git://github.com/mattbasta/munchylunchy-web
